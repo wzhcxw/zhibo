@@ -6,159 +6,128 @@
             "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=11&curpage=1&pagesize=100"
         },
         {
-             "name": "河北",
+            "name": "河北",
             "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=30&curpage=1&pagesize=100"
         },
         {
-            "name":"山西",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=24&curpage=1&pagesize=100"
-        
+            "name": "山西",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=24&curpage=1&pagesize=100"
         },
-                {
-            "name":"山东",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=31&curpage=1&pagesize=100"
-        
+        {
+            "name": "山东",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=31&curpage=1&pagesize=100"
         },
-                {
-            "name":"安徽",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=32&curpage=1&pagesize=100"
-        
+        {
+            "name": "安徽",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=32&curpage=1&pagesize=100"
         },
-                {
-            "name":"上海",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=10&curpage=1&pagesize=100"
-        
+        {
+            "name": "上海",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=10&curpage=1&pagesize=100"
         },
-                {
-            "name":"天津",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=23&curpage=1&pagesize=100"
-        
+        {
+            "name": "天津",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=23&curpage=1&pagesize=100"
         },
-                {
-            "name":"重庆",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=26&curpage=1&pagesize=100"
-        
+        {
+            "name": "重庆",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=26&curpage=1&pagesize=100"
         },
-                {
-            "name":"广东",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=22&curpage=1&pagesize=100"
-        
+        {
+            "name": "广东",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=22&curpage=1&pagesize=100"
         },
-                {
-            "name":"浙江",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=19&curpage=1&pagesize=100"
-        
+        {
+            "name": "浙江",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=19&curpage=1&pagesize=100"
         },
-                {
-            "name":"江苏",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=17&curpage=1&pagesize=100"
-        
+        {
+            "name": "江苏",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=17&curpage=1&pagesize=100"
         },
-                {
-            "name":"湖南",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=20&curpage=1&pagesize=100"
-        
+        {
+            "name": "湖南",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=20&curpage=1&pagesize=100"
         },
-                {
-            "name":"四川",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=18&curpage=1&pagesize=100"
-        
+        {
+            "name": "四川",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=18&curpage=1&pagesize=100"
         },
-                {
-            "name":"湖北",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=27&curpage=1&pagesize=100"
-        
+        {
+            "name": "湖北",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=27&curpage=1&pagesize=100"
         },
-                {
-            "name":"黑龙江",
-            "url":"api.qingting.fm	/api/qtradiov2/items?deviceid=88888888&id=28&curpage=1&pagesize=100"
-        
+        {
+            "name": "黑龙江",
+            "url": "api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=28&curpage=1&pagesize=100"
         },
-                {
-            "name":"辽宁",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=21&curpage=1&pagesize=100"
-        
+        {
+            "name": "辽宁",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=21&curpage=1&pagesize=100"
         },
-                {
-            "name":"福建",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=34&curpage=1&pagesize=100"
-        
+        {
+            "name": "福建",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=34&curpage=1&pagesize=100"
         },
-                {
-            "name":"广西",
-            "url":"api.qingting.fm	/api/qtradiov2/items?deviceid=88888888&id=36&curpage=1&pagesize=100"
-        
+        {
+            "name": "广西",
+            "url": "api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=36&curpage=1&pagesize=100"
         },
-                {
-            "name":"贵州",
-            "url":"api.qingting.fm	/api/qtradiov2/items?deviceid=88888888&id=37&curpage=1&pagesize=100"
-        
+        {
+            "name": "贵州",
+            "url": "api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=37&curpage=1&pagesize=100"
         },
-                {
-            "name":"云南",
-            "url":"api.qingting.fm	/api/qtradiov2/items?deviceid=88888888&id=46&curpage=1&pagesize=100"
-        
+        {
+            "name": "云南",
+            "url": "api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=46&curpage=1&pagesize=100"
         },
-                {
-            "name":"江西",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=38&curpage=1&pagesize=100"
-        
+        {
+            "name": "江西",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=38&curpage=1&pagesize=100"
         },
-                {
-            "name":"吉林",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=39&curpage=1&pagesize=100"
-        
+        {
+            "name": "吉林",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=39&curpage=1&pagesize=100"
         },
-                {
-            "name":"甘肃",
-            "url":"api.qingting.fm	/api/qtradiov2/items?deviceid=88888888&id=33&curpage=1&pagesize=100"
-        
+        {
+            "name": "甘肃",
+            "url": "api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=33&curpage=1&pagesize=100"
         },
-                {
-            "name":"陕西",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=51&curpage=1&pagesize=100"
-        
+        {
+            "name": "陕西",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=51&curpage=1&pagesize=100"
         },
-                {
-            "name":"宁夏",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=40&curpage=1&pagesize=100"
-        
+        {
+            "name": "宁夏",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=40&curpage=1&pagesize=100"
         },
-                {
-            "name":"内蒙古",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=44&curpage=1&pagesize=100"
-        
+        {
+            "name": "内蒙古",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=44&curpage=1&pagesize=100"
         },
-                {
-            "name":"海南",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=43&curpage=1&pagesize=100"
-        
+        {
+            "name": "海南",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=43&curpage=1&pagesize=100"
         },
-                {
-            "name":"西藏",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=42&curpage=1&pagesize=100"
-        
+        {
+            "name": "西藏",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=42&curpage=1&pagesize=100"
         },
-                {
-            "name":"青海",
-            "url":"api.qingting.fm	/api/qtradiov2/items?deviceid=88888888&id=41&curpage=1&pagesize=100"
-        
+        {
+            "name": "青海",
+            "url": "api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=41&curpage=1&pagesize=100"
         },
-                {
-            "name":"新疆",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=45&curpage=1&pagesize=100"
-        
+        {
+            "name": "新疆",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=45&curpage=1&pagesize=100"
         },
-                {
-            "name":"台湾",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=49&curpage=1&pagesize=100"
-        
+        {
+            "name": "台湾",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=49&curpage=1&pagesize=100"
         },
-                {
-            "name":"香港",
-            "url":"http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=47&curpage=1&pagesize=100"
-        
+        {
+            "name": "香港",
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=47&curpage=1&pagesize=100"
         }
-        
     ]
 }
