@@ -91,7 +91,7 @@
         },
         {
             "name": "甘肃",
-            "url": "api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=33&curpage=1&pagesize=100"
+            "url": "http://api.qingting.fm/api/qtradiov2/items?deviceid=88888888&id=33&curpage=1&pagesize=100"
         },
         {
             "name": "陕西",
